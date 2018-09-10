@@ -1,0 +1,130 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing:border-box; 
+}
+
+header,.main,footer{
+	width: 70%;
+	margin: 20px auto;
+	max-width: 1500px;
+
+}
+
+header{
+	background: white;
+
+}
+
+
+ 
+
+.menu ul{
+	list-style: none;
+	overflow: hidden;
+	background: #A09797;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.menu ul li{
+	float: left;
+
+}
+
+.menu ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: white;
+	text-decoration: none;
+
+
+}
+
+.menu ul li a:hover{
+	background-color:  red;
+
+}
+
+.primerti{
+	 font-family: 'Gamja Flower', cursive;
+	color: red;
+	width: 70%;
+	margin: 20px auto;
+	max-width: 1500px;
+	
+}
+
+.debajo{
+	border: 2px solid #B4A5A5;
+	color: #B4A5A5;
+	text-align: center;
+
+}
+
+.realidad{
+	color: #1681CC;
+
+}
+
+.img1{
+	display: flex;
+	justify-content: center;
+}
+
+.realidad1{
+	color: #1681CC;
+
+	}
+
+.debajo1{
+	text-align: center;
+	
+	color: #B4A5A5;
+}
+
+div img {
+	text-align: center;
+	border: 2px solid #B4A5A5;
+	color: #B4A5A5;
+	padding: 5px;
+}
+
+.menu2{
+	padding: 40px;
+}
+
+.menu3{
+	padding: 40px;
+}
+
+.caja{
+	height: 100px;
+	background: white;
+	border-left: 6px solid orange;
+	
+	justify-content: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 0 60px;
+
+}
+footer{
+	background: #0D0D0D;
+	color: white;
+	text-align: center;
+	clear: both;
+	padding: 10px 5px;
+}
+
+.link{
+	color: #1E9BCF;
+
+}
+
+.stuar{
+	width: 100px;
+}
